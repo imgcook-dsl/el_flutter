@@ -1,4 +1,4 @@
-简体中文 | [English](https://github.com/imgcook-dsl/el_flutter/blob/master/README.md)
+简体中文 | [English](https://github.com/imgcook-dsl/flutter-standard/blob/master/README.md)
 
 ## 概述
 
